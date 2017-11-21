@@ -11,3 +11,6 @@ https://dashboard.webcore.co/
 
 Here is simple how to
 https://wiki.webcore.co/#Creating_your_first_piston
+
+Docs for coding are here
+http://docs.smartthings.com/en/latest/capabilities-reference.html#audio-notification
