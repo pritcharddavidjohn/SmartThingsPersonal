@@ -1,7 +1,9 @@
 # SmartThingsPersonal
 
 Smart Things IDE is where you import core libraries and device handlers
-smartthings.com/ide
+
+SmartThings IDE - Samsung SmartThings
+https://graph.api.smartthings.com/
 
 follow this to add code from github repo
 https://community.smartthings.com/t/faq-github-integration-how-to-add-and-update-from-repositories/39046
