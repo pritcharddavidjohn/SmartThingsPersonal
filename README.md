@@ -19,3 +19,7 @@ http://docs.smartthings.com/en/latest/capabilities-reference.html#audio-notifica
 
 This is a thread on adding xaoimi devices using the log methods
 https://community.smartthings.com/t/xiaomi-zigbee-door-window-sensor-motion-sensor-smart-button-device-type-beta/31948/457
+
+DTH for aqara light switch (unwired)
+https://community.smartthings.com/t/original-xiaomi-aqara-smart-wireless-switch-aqara-button-beta/94350
+
