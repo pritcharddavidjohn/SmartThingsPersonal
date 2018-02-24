@@ -16,3 +16,6 @@ https://wiki.webcore.co/#Creating_your_first_piston
 
 Docs for coding are here
 http://docs.smartthings.com/en/latest/capabilities-reference.html#audio-notification
+
+This is a thread on adding xaoimi devices using the log methods
+https://community.smartthings.com/t/xiaomi-zigbee-door-window-sensor-motion-sensor-smart-button-device-type-beta/31948/457
